@@ -1,2 +1,1 @@
-# IR-Project1
-IR
+Information Retrieval project linked with Google Colab
